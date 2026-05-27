@@ -16,7 +16,7 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "js-cookie": "^3.0.7",
-    "nuxt": "^1.0.0"
+    "nuxt": "^4.4.6"
   },
   "devDependencies": {
     "cross-env": "^5.0.1"
