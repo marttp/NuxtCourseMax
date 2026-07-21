@@ -13,8 +13,8 @@
   "dependencies": {
     "@nuxtjs/axios": "^4.5.2",
     "axios": "^1.18.0",
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.20.6",
+    "express": "^4.22.2",
     "js-cookie": "^3.0.7",
     "nuxt": "^3.21.7"
   },
